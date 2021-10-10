@@ -1,0 +1,17 @@
+src/**
+tests/**
+coverage/**
+.babelrc
+.eslint*
+debug.js
+.autod.conf.js
+.eslintignore
+.eslintrc
+.gitignore
+.travis.yml
+appveyor.yml
+package-lock.json
+test{{name}}.test.js
+README.zh_CN.md
+LICENSE
+.github
