@@ -1,6 +1,8 @@
 src/**
 tests/**
 coverage/**
+.github
+node_modules
 .babelrc
 .eslint*
 debug.js
@@ -14,4 +16,3 @@ package-lock.json
 test{{name}}.test.js
 README.zh_CN.md
 LICENSE
-.github
