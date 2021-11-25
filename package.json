@@ -1,13 +1,13 @@
 {
   "name": "egg-full-alipay",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "egg-full-alipay",
   "eggPlugin": {
     "name": "fullAlipay"
   },
   "keywords": [
     "egg",
-    "egg-alipay",
+    "eggPlugin",
     "egg-plugin"
   ],
   "dependencies": {
