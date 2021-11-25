@@ -1,6 +1,6 @@
 {
   "name": "egg-full-alipay",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "egg-full-alipay",
   "eggPlugin": {
     "name": "fullAlipay"
@@ -46,12 +46,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-full-alipay.git"
+    "url": "git+https://github.com/bigboxs/egg-full-alipay.git"
   },
   "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
+    "url": "https://github.com/bigboxs/egg-full-alipay/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-full-alipay#readme",
+  "homepage": "https://github.com/bigboxs/egg-full-alipay#readme",
   "author": "bigboxs",
   "license": "MIT"
 }
